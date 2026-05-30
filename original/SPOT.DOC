@@ -1,0 +1,56 @@
+-------------------------------------------------------------------------------
+ 				    SPOT
+-------------------------------------------------------------------------------
+
+Keys:
+
+Main title screen-
+	S- Start a game
+	E- Edit or Change Board
+	O- Go to options
+
+At edit board-
+	Y- Symmetry on/off
+	U- Undo
+	E- Exit
+	S- Shake
+
+At the option screen-
+	E- Exit
+
+At the play board-
+	Q- Quit or pause game
+
+
+How to play:
+
+	The object of this game is to capture all of your opponents squares.
+	The game plays much like Othello, but the methods of moving and
+	capturing pieces is different.
+
+	If you are the 'X', you may move to any of these adjacent squares:
+				
+				.....
+				.....
+				..X..
+				.....
+				.....
+
+	You may not move on top of another player.  If you move to one of the
+	squares directly adjacent to you, your piece will be replicated.  If
+	you move to a square on the outer edge of your limits, your piece will
+	move, but it will not be replicated.
+
+	To capture opponents game pieces, you move to a square adjacent to the
+	piece you wish to capture.  The person with the most pieces when the
+	board is full is the winner. 
+
+	There may also be bonus squares in the game.  If you land on one, a
+	slot machine type game will come up.  Hit the button to stop each
+	column.  If three spots line up, you get a free turn.  If three seven
+	up logos line up, you get 7 extra seconds in a timed game.  If three
+	cherries line up, you get to move any of your pieces to any free 
+	square.  If three virgins line up, you can swap any one of your
+	pieces with any one of your opponent's pieces.
+
+  	Thats about it, have fun.
